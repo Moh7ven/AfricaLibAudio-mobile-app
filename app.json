@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "AfricaLibAudio-mobile-app",
-    "slug": "AfricaLibAudio-mobile-app",
+    "name": "AfricaLibAudio",
+    "slug": "AfricaLibAudio",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
